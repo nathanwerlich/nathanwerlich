@@ -2,7 +2,7 @@
 <img src="https://github.com/nathanwerlich/nathanwerlich/blob/main/img/dev-working_rounded.gif?raw=true" href="https://github.com/nathanwerlich" alt="CoDiNg RocKs"  width="550"/><br>
 </div>
 
-<center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156352994&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156352994&redirect=true)</center> <br>
+:[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156352994&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156352994&redirect=true): <br>
 
 <div align='center'>
 <a href='https://www.linkedin.com/in/nathan-werlich-0b6154175/' target="_blank">
