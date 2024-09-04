@@ -14,4 +14,8 @@
     <img width="26" height="26" src="https://img.icons8.com/ios-glyphs/344/instagram-new.png"/>
 </div> <br>
 
-![snake animation](https://github.com/nathanwerlich/nathanwerlich/blob/output/github-contribution-grid-snake3.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
